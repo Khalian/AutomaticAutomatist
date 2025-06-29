@@ -2,6 +2,8 @@
 
 A Python program that creates abstract expressionist and surrealist-inspired digital artwork using algorithmic techniques including noise functions, fluid dynamics simulation, and organic shape generation.
 
+I got the idea from visiting Vancouver Art Gallery and my experiments with Gen AI. I wrote this entire package with gen AI.
+
 ## Features
 
 - **Two Art Styles**: Generate Abstract Expressionist or Surrealist artwork
@@ -231,22 +233,11 @@ This is a standalone script, but you can extend it by:
 4. **Output formats**: Add support for SVG, PDF, or other formats
 5. **Interactive features**: Add real-time preview or GUI interface
 
-## License
-
-This project is provided as-is for educational and creative purposes. Feel free to modify and distribute according to your needs.
-
 ## Acknowledgments
 
 Inspired by the works of:
 - **Abstract Expressionists**: Jackson Pollock, Willem de Kooning, Mark Rothko
 - **Surrealists**: Joan Miró, Yves Tanguy, Salvador Dalí
 - **Algorithmic Art**: Pioneers in computational creativity and generative art
-
-## Version History
-
-- **v1.0**: Initial release with batch generation
-- **v2.0**: Command-line interface with single image generation and customizable parameters
-
----
 
 *Generated artwork is unique each time and reflects the random, expressive nature of abstract and surrealist art movements.*
